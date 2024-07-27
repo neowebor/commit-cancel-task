@@ -1,0 +1,5 @@
+2631b10 HEAD@{0}: revert: Revert "Add text2.txt"
+908ca97 HEAD@{1}: commit: Add text2.txt
+9a130b1 HEAD@{2}: reset: moving to 9a130b1
+2bc32c3 HEAD@{3}: commit: Add text2.txt
+9a130b1 HEAD@{4}: commit (initial): Git init. Add text.txt
